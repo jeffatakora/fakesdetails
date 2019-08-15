@@ -1,0 +1,54 @@
+{
+    "it": "worked",
+    "student_info": {
+      "id": "0301019006",
+      "name": "AIDOO EWURAMA",
+      "gender": "Female",
+      "jhs_attended": "UNIVERSITY JHS 'A'",
+      "jhs_location": "CAPE COAST METROPOLITAN ,Central Region",
+      "total_score": "567",
+      "aggregate": "6"
+    },
+    "choices":{
+       "first": {
+         "from_school": "Wesley Girls Senior High, Cape Coast",
+         "from_prog": "General Science",
+         "from_res": "Boarding",
+         "to_school": "Wesley Girls Senior High, Cape Coast",
+         "to_prog": "General Science",
+         "to_res": "Boarding"
+       },
+       "second": {
+         "from_school": "Ghana National College",
+         "from_prog": "General Science",
+         "from_res": "Boarding",
+         "to_school": "Ghana National College",
+         "to_prog": "General Science",
+         "to_res": "Boarding"
+       },
+        "third": {
+         "from_school": "Edinaman Senior High",
+         "from_prog": "Home Economics",
+         "from_res": "Boarding",
+         "to_school": "Edinaman Senior High",
+         "to_prog": "Home Economics",
+         "to_res": "Boarding"
+       }, 
+       "fourth": {
+         "from_school": "Effutu Senior High/Tech",
+         "from_prog": "Visual Arts",
+         "from_res": "Day",
+         "to_school": "Effutu Senior High/Tech",
+         "to_prog": "Visual Arts",
+         "to_res": "Day"
+       },
+        "fifth": {
+         "from_school": "Moree Comm. Senior High",
+         "from_prog": "Visual Arts",
+         "from_res": "Day",
+         "to_school": "Moree Comm. Senior High",
+         "to_prog": "Visual Arts",
+         "to_res": "Day"
+       }
+    }
+  }
